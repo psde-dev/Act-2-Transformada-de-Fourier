@@ -22,4 +22,4 @@ Para ejecutar el archivo se debe hacerlo con:
 python3 TdF.py
 
 
-## Alumna: Juana Patricia Salinas Déciga
+- Alumna: Juana Patricia Salinas Déciga
