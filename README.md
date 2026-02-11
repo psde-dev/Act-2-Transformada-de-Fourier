@@ -20,3 +20,6 @@ Este proyecto analizará señales con respectp al tiempo y la frecuencia mediant
 Para ejecutar el archivo se debe hacerlo con:
 
 python3 TdF.py
+
+
+##Alumna: Juana Patricia Salinas Déciga
